@@ -127,7 +127,7 @@
       <workItem from="1723893006153" duration="6024000" />
       <workItem from="1723899537075" duration="8103000" />
       <workItem from="1723913138562" duration="315000" />
-      <workItem from="1723913456361" duration="1856000" />
+      <workItem from="1723913456361" duration="2169000" />
     </task>
     <task id="LOCAL-00005" summary="commit  &quot;nbformat&quot;: 4,&#10; &quot;nbformat_minor&quot;: 4,">
       <option name="closed" value="true" />
@@ -209,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723914898571</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Refactor : codebase with improvements and corrections">
+      <option name="closed" value="true" />
+      <created>1723915537233</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723915537233</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactor : codebase with improvements and corrections">
+      <option name="closed" value="true" />
+      <created>1723915605942</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723915605942</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +250,7 @@
     <MESSAGE value="commit  &quot;nbformat&quot;: 4,&#10; &quot;nbformat_minor&quot;: 1," />
     <MESSAGE value="commit  &quot;nbformat&quot;: 4,&#10; &quot;nbformat_minor&quot;: 4," />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Refactor : codebase with improvements and corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor : codebase with improvements and corrections" />
   </component>
 </project>
